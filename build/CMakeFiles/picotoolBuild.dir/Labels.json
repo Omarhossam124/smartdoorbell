@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "Z:/smartdoorbell/build/CMakeFiles/picotoolBuild"
+		},
+		{
+			"file" : "Z:/smartdoorbell/build/CMakeFiles/picotoolBuild.rule"
+		},
+		{
+			"file" : "Z:/smartdoorbell/build/CMakeFiles/picotoolBuild-complete.rule"
+		},
+		{
+			"file" : "Z:/smartdoorbell/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule"
+		},
+		{
+			"file" : "Z:/smartdoorbell/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule"
+		},
+		{
+			"file" : "Z:/smartdoorbell/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule"
+		},
+		{
+			"file" : "Z:/smartdoorbell/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule"
+		},
+		{
+			"file" : "Z:/smartdoorbell/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule"
+		},
+		{
+			"file" : "Z:/smartdoorbell/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule"
+		},
+		{
+			"file" : "Z:/smartdoorbell/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule"
+		},
+		{
+			"file" : "Z:/smartdoorbell/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"picotoolBuild"
+		],
+		"name" : "picotoolBuild"
+	}
+}

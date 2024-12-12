@@ -1,0 +1,5 @@
+Z:/smartdoorbell/build/pioasm-install/pioasm/pioasm.exe
+Z:/smartdoorbell/build/pioasm-install/pioasm/pioasmTargets.cmake
+Z:/smartdoorbell/build/pioasm-install/pioasm/pioasmTargets-release.cmake
+Z:/smartdoorbell/build/pioasm-install/pioasm/pioasmConfig.cmake
+Z:/smartdoorbell/build/pioasm-install/pioasm/pioasmConfigVersion.cmake

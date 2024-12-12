@@ -1,0 +1,5 @@
+Z:/smartdoorbell/build/_deps/picotool/picotool.exe
+Z:/smartdoorbell/build/_deps/picotool/picotoolTargets.cmake
+Z:/smartdoorbell/build/_deps/picotool/picotoolTargets-release.cmake
+Z:/smartdoorbell/build/_deps/picotool/picotoolConfig.cmake
+Z:/smartdoorbell/build/_deps/picotool/picotoolConfigVersion.cmake
